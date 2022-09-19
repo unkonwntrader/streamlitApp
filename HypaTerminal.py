@@ -3,7 +3,7 @@
 """
 Created on Sun Jul 31 14:32:56 2022
 
-@author: damian
+@author: Diego
 """
 
 from yahoo_fin import options as op
